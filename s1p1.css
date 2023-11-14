@@ -1,0 +1,48 @@
+.jumbotron h1{
+ color:red;
+}
+
+.nav *{
+ background-color: gray;
+}
+
+.jumbotron div p a {
+ border: 3px solid yellow;
+}
+
+div.blog-post:first-of-type {
+ color:yellow;
+}
+
+div.blog-post:first-of-type hr{
+ border-color:red;
+}
+
+.nav span:nth-child(even){
+ background-color: green;
+}
+
+.p-4:nth-child(2) ol li {
+ border: 1px solid blue;
+}
+
+.blog-post:nth-child(3) p:first-of-type a{
+ background-color: orange;
+}
+
+.blog-post:nth-child(4) li:nth-child(2){
+ border: 3px solid pink;
+ color: pink;
+}
+
+body > a{
+ color: green;
+}
+
+.blog-pagination a:last-of-type{
+ border-color: yellow;
+}
+
+footer a:nth-child(2){
+ background-color: purple;
+}
